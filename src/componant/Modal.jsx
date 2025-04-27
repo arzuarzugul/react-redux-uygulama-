@@ -6,9 +6,11 @@ import { modalFunc } from "../redux/modalSlice";
 
 
 
+
 const Modal = ({ title, content, btntext, btnFunc }) => {
   
   const dispatch=useDispatch();
+
 
 
 

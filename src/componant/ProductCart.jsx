@@ -16,10 +16,11 @@ const ProductCart = ({ dt }) => {
     navigate(`/?update=${dt?.id}`)
    
   }
+  
   return (
     <div className="w-[200px] h-[200px] relative m-2 rounded-md">
       <img src={dt?.url} className="w-full h-full rounded-md" />
-      <div className="absolute w-full bottom-0 bg-indigo-600 text-white flex justify-betwee px-2">
+      <div className="absolute w-full bottom-0 bg-indigo-600 text-white flex justify-between py-2 rounded-md px-2">
         <div className="test-lg font-semibold">{dt?.name}</div>
         <div>{dt?.price}</div>
       </div>
@@ -50,3 +51,16 @@ const ProductCart = ({ dt }) => {
 };
 
 export default ProductCart;
+
+// import React from 'react'
+
+// const ProductCart = () => {
+//   return (
+//     <div className="w-[200px] h-[200px] relative m-2 rounded-md">
+//        <img src={dt?.url} className="w-full h-full rounded-md" />
+//     </div>
+//   )
+// }
+
+// export default ProductCart
+
