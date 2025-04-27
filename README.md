@@ -1,7 +1,17 @@
-# react-redux uygulama
+# 💻 React & Redux Uygulaması
 
-bu proje tailwind ve react-icons kütüphanesi kullanılarak redux kullanılarak tasarlanmıştır.
-uygulamada ürün ekleme çıkartma güncelleme sorting işlemleri yapılmıştır
+
+Bu projede, modern React yapısıyla birlikte Redux Toolkit kullanarak bir ürün yönetim sistemi geliştirdim. Kullanıcılar, ürün ekleyebiliyor ve eklenen ürünler anlık olarak listeye yansıyor.
+Projede ayrıca modal yapısı, dinamik inputlar, görsel yükleme (URL.createObjectURL) ve state yönetimi gibi özellikler bulunuyor.
+
+Kullanılan teknolojiler:
+🔹 React
+🔹 Redux Toolkit
+🔹 React Router DOM
+🔹 Vite.js
+🔹 Tailwind CSS (varsa)
+
+Bu proje ile React içinde global state yönetimi, modal aç/kapat, dispatch, action, reducer kavramlarına hakimiyetimi güçlendirdim.
 ![Ekran görüntüsü 2025-04-28 011336](https://github.com/user-attachments/assets/d5a19d59-e91e-424e-81ea-3f29bcc8dcd2)
 
 
