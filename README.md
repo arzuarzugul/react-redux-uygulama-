@@ -1,7 +1,7 @@
 # 💻 React & Redux Uygulaması
 
 
-Bu projede, modern React yapısıyla birlikte Redux Toolkit kullanarak bir ürün yönetim sistemi geliştirdim. Kullanıcılar, ürün ekleyebiliyor ve eklenen ürünler anlık olarak listeye yansıyor.
+## Bu projede, modern React yapısıyla birlikte Redux Toolkit kullanarak bir ürün yönetim sistemi geliştirdim. Kullanıcılar, ürün ekleyebiliyor ve eklenen ürünler anlık olarak listeye yansıyor.
 Projede ayrıca modal yapısı, dinamik inputlar, görsel yükleme (URL.createObjectURL) ve state yönetimi gibi özellikler bulunuyor.
 
 Kullanılan teknolojiler:
