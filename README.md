@@ -12,7 +12,7 @@ Kullanılan teknolojiler:
 🔹 Redux Toolkit
 🔹 React Router DOM
 🔹 Vite.js
-🔹 Tailwind CSS (varsa)
+🔹 Tailwind CSS 
 
 ###
 Bu proje ile React içinde global state yönetimi, modal aç/kapat, dispatch, action, reducer kavramlarına hakimiyetimi güçlendirdim.
